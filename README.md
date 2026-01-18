@@ -1,8 +1,6 @@
 # 🏙️ AI Simulation Engine
 **Agent-Based City Modeling with Real-Time Visualizations**
 
-🌐 **[View Live Application](https://autogen-ai-simulation-engine-web.vercel.app/)**
-
 > **A sophisticated city simulation platform where autonomous agents drive emergent behavior. Model traffic patterns, economic dynamics, and urban growth through interactive, real-time visualizations.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -285,9 +283,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-
-[Live Demo](https://autogen-ai-simulation-engine-web.vercel.app/) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
